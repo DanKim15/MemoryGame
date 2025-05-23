@@ -18,8 +18,6 @@ This project builds a hardware memory game using:
 4. **Reset & replay**  
    A dedicated reset switch clears score and regenerates a new pattern, allowing endless replay.
 
-*(Watch it in action: [DE10-Lite Memory Game Demo](https://youtu.be/kQlF9GM71I8?si=0GL5G2Z6p1wwK7_O))*
-
 ## How It Works
 
 - **Top-Level Integration**  
