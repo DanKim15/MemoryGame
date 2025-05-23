@@ -59,3 +59,7 @@ Each core module was verified with SystemVerilog testbenches and waveform inspec
 3. **StateMachineGame Module**  
    ![StateMachineGame Testbench Waveform](https://github.com/DanKim15/MemoryGame/blob/main/statemachinegame_waveform.png)
 
+
+
+**Intial State Machine Diagram**  
+![State Machine Diagram](https://github.com/DanKim15/MemoryGame/blob/main/initial_statemachine_diagram.jpg)
