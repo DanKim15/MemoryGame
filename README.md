@@ -1,6 +1,6 @@
 # Memory Game FPGA Project
 
-A classic “Simon-style” memory sequence game on FPGA: a random pattern of LED blinks grows each round, and the player must reproduce it using the corresponding switches. A seven-segment display shows the current score or “F”/“A” for failure/victory. Implemented on a Terasic DE10-Lite board; see the demonstration video on YouTube: https://youtu.be/kQlF9GM71I8?si=0GL5G2Z6p1wwK7_O
+A “Simon-style” memory sequence game on FPGA: a random pattern of LED blinks grows each round, and the player must reproduce it using the corresponding switches. A seven-segment display shows the current score or “F”/“A” for failure/victory. Implemented on a Terasic DE10-Lite board; see the demonstration video on YouTube: https://youtu.be/kQlF9GM71I8?si=0GL5G2Z6p1wwK7_O
 
 ## Description
 
