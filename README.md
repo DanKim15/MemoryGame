@@ -48,7 +48,7 @@ This project builds a hardware memory game using:
 
 ## Testing
 
-Each core module was verified with SystemVerilog testbenches and waveform inspection:
+Each core module was verified with SystemVerilog testbenches and waveform inspection using ModelSim:
 
 1. **LFSR22 Module**  
    ![LFSR22 Testbench Waveform](https://github.com/DanKim15/MemoryGame/blob/main/lfsr_waveform.png)
